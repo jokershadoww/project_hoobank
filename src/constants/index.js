@@ -11,11 +11,11 @@ export const navLinks = [
   },
   {
     id: "product",
-    title: "Product",
+    title: "Ex",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "About Us",
   },
 ];
 
@@ -25,21 +25,22 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Get high grades in the tests and Many prizes await you as you fight for first place.",
+      
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "All your information and data will be 100% protected from theft or manipulation.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Communication",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "If you encounter any academic difficulties, you can contact the support center.",
   },
 ];
 
@@ -47,25 +48,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "She holds a doctorate from Oxford University and has 20 years of experience teaching the English language.",
+    name: "D.Christine Mule",
+    title: "English & Leader",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "An expert in mathematics, he holds a doctorate from Stanford University.",
+    name: "D.Salem Elsayed",
+    title: "Math & Leader",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Team programmer, website developer, and advertising officer.",
+    name: "Omar Ahmed",
+    title: "Admin & Leader",
     img: people03,
   },
 ];
@@ -74,17 +75,17 @@ export const stats = [
   {
     id: "stats-1",
     title: "User Active",
-    value: "3800+",
+    value: "500+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Active Teachers",
+    value: "28+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Active Admins",
+    value: "10+",
   },
 ];
 
@@ -140,7 +141,7 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "Admin",
     links: [
       {
         name: "Our Partner",
